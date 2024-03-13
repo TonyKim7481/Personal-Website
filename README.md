@@ -1,2 +1,2 @@
-# Personal-Website
-Personal Website for IST 256
+# mysite
+ My Static Web Site to Publish on Github
